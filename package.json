@@ -1,0 +1,23 @@
+{
+  "name": "reactnativedemo",
+  "version": "1.0.0",
+  "description": "react-native学习探索",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cross24/reactNativeDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cross24/reactNativeDemo/issues"
+  },
+  "homepage": "https://github.com/cross24/reactNativeDemo#readme",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-native": "^0.57.8"
+  }
+}
